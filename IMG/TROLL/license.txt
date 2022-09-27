@@ -1,0 +1,11 @@
+Model Information:
+* title:	Demonio Animado
+* source:	https://sketchfab.com/3d-models/demonio-animado-f78dc79574fa4380893127ec2ed36add
+* author:	vicente betoret ferrero (https://sketchfab.com/deathcow)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Demonio Animado" (https://sketchfab.com/3d-models/demonio-animado-f78dc79574fa4380893127ec2ed36add) by vicente betoret ferrero (https://sketchfab.com/deathcow) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

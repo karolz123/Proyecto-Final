@@ -1,0 +1,11 @@
+Model Information:
+* title:	Anubis[Posed]
+* source:	https://sketchfab.com/3d-models/anubisposed-e966ffc131004b37aee62d6d266f6063
+* author:	vaporclaws (https://sketchfab.com/vaporclaws)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Anubis[Posed]" (https://sketchfab.com/3d-models/anubisposed-e966ffc131004b37aee62d6d266f6063) by vaporclaws (https://sketchfab.com/vaporclaws) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
