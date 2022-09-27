@@ -16,7 +16,7 @@ const matcap = textureLoader.load('../img/metal.jpg')
 
 const material = new THREE. MeshStandardMaterial()
 material.matcap = matcap 
-material.color.set('blue')
+material.color.set('green')
 material.metalness = 1;
 material.roughness = 0;
 
@@ -26,13 +26,13 @@ directionalLight.position.set(2, 4, 1)
 scene.add(directionalLight)
 
 //Geometrias
-const geometry = new THREE.TorusKnotGeometry( 10, 3, 70, 9, 42, 10 );
+const geometry = new THREE.TorusKnotGeometry( 10, 3, 35, 9, 42, );
 const torusKnot = new THREE.Mesh( geometry, material );
 
-const geometria = new THREE.BoxGeometry( 4, 4, 4 );
+const geometria = new THREE.CylinderGeometry( 2, 2, 3, 5 );
 const cube = new THREE.Mesh(geometria, material)
 
-const geometr = new THREE.CapsuleGeometry( 3, 3, 8, 16 );
+const geometr = new THREE.RingGeometry( 1, 5, 32 );
 const capsule = new THREE.Mesh(geometr, material)
 
 const geomet = new THREE.ConeGeometry( 5, 10, 12 );
